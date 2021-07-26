@@ -1,2 +1,2 @@
-# sleact
-Slack 클론 코딩
+# Slack 클론 코딩
+
